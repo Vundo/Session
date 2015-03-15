@@ -1,5 +1,5 @@
 {
-  "name": "Vundo/Session",
+  "name": "vundo/session",
   "description": "Simple session class",
   "type": "library",
   "keywords": ["sess", "session"],
