@@ -1,0 +1,16 @@
+{
+  "name": "Vundo/Session",
+  "description": "Simple session class",
+  "type": "library",
+  "keywords": ["sess", "session"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mirko Kroese",
+      "email": "mirko@vundo.nl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Vundo\\Session\\": "Session"}
+  },
+}
